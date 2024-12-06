@@ -5,10 +5,10 @@ A table containing the number of possibly useful lines for AlO, CrH, HCl, and CO
 -------------------------------------------------------------------------------------------------------------------------------------------------
 | Molecule | # of possibly useful lines | Flux threshold (depth percentage from the continuum)| Wavelength of strongest line  | Depth percentage from the continuum of strongest line | 
 |:--------:|:--------------------------:|:---------------------------------------------------:|:-----------------------------:|:-----------------------------------------------------:|
-|   CrH    |            61              |        1%      |        15435.22 Angstroms     |                        2.12%                          |
+|   CrH    |            60              |        1%      |        15435.22 Angstroms     |                        2.12%                          |
 |   HCl    |            11              |        2%      |        17191.77 Angstroms     |                        2.60%                          |
-|   AlO    |            24              |       3.5%     |        15791.65 Angstroms     |                        5.08%                          |
-|   CO     |            71              |        5%      |        15977.67 Angstroms     |                        14.13%                         |
+|   AlO    |            23              |       3.5%     |        15791.65 Angstroms     |                        5.08%                          |
+|   CO     |            30              |        5%      |        15977.67 Angstroms     |                        14.13%                         |
 
 
 Wavelengths in Angstroms of each possibily useful line for each molecule 
