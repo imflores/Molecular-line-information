@@ -11,7 +11,7 @@ A table containing the number of possibly useful lines for AlO, CrH, HCl, and CO
 |   CO     |            30              |        5%      |        15775.29 Angstroms     |                        12.45%                         |
 
 
-Wavelengths in Angstroms of each possibily useful line for each molecule 
+Wavelengths in Angstroms of each possibly useful line for each molecule 
 ---------------------------
 | CrH | HCl | AlO | CO |
 |:---:|:---:|:---:|:--:|
